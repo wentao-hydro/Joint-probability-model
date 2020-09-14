@@ -1,4 +1,4 @@
-#coded by Wentao Li, wentaoli@student.bnu.edu.cn
+#coded by Wentao Li, wentaoli@mail.bnu.edu.cn
 
 rm(list=ls())
 
